@@ -92,7 +92,7 @@ const Footer = () => {
                     className="text-center p-3 copy-right"
                 >
                     © 2021 Copyright:
-                    <Link className="text-danger" to={{ pathname: "https://www.linkedin.com/in/syedhasibrahman/" }} target="_blank" >Syed Hasibur Rahman</Link>
+                    <Link className="text-danger" to={{ pathname: "https://www.linkedin.com/in/smhasanopu/" }} target="_blank" >Syed Mahadi Hasan</Link>
 
                 </div>
                 {/* <!-- Copyright --> */}
